@@ -7,6 +7,8 @@
 
 The central objective of the Narrative & Education Conference is to bring researchers in the Humanities and Data Science into a [Trading Zone](http://en.wikipedia.org/wiki/Trading_zones). Briefly, rather than stopping at the dialogue level as is traditionally the endpoint of most interdisciplinary efforts, this Trading Zone will instead create a discussion that immediately results in experimental designs to be later tested in empirical studies. 
 
+<!-- cite personalizedlearningconsortium.org -->
+
 ## Need and background theory
 
 Narrative has traditionally been the most central mechanism to transmit knowledge among human beings, people gathering around the fire for thousands of years. Despite being a highly effective mechanism for knowledge transfer, resistant even to the lack of a written language, when it comes to Science Education narrative is largely ignored. Our conference will address this issue in a highly innovative way, by organizing a Trading Zone where researchers in the Humanities and Data Sciences, can not only talk but actually creating empirical projects with the aim of improving Science Education.
@@ -22,7 +24,7 @@ Narrative has traditionally been the most central mechanism to transmit knowledg
 
 ## Program and Speakers
 
-Marcos Carvalho - 
+Marcos Carvalho - O Dr. Marcos focará a sua apresentação em Narrativa e Educação, contrapondo e fazendo um balanço a partir de autores como Martha Nussbaum, Richard Rorty, Gayatri Spivak, Kwame Anthony Appiah e Idelber Avelar. O seu texto irá então propor uma contextualização tanto na relação com o ensino de ciência quanto em uma abordagem centrada na África, utilizando uma perspectiva situada inspirada no livro [Epistemologias do Sul]().
 
 Ricardo Pietrobon - Dr. Pietrobon focuses on the field Data Sciences in Education. His workshop will focus on the role of educational randomized trials, why they are important, their relationship with causality, general design principles and how the interaction will proceed for the remaining of the course.
 
@@ -59,6 +61,8 @@ At the end of the conference, we will circulate an online survey among participa
 ## Post-conference dissemination
 
 At the end of the conference we will post all videos into a dedicated www.youtube.com channel at <!-- add link -->, whose link will also be made available at our site at [http://educacaonarrativa.org](http://educacaonarrativa.org). This channel will then be publicized using the same means we have gathered as described under the Event Promotion section.
+
+<!-- add dissemination manual -->
 
 ## Post-conference article and other publications
 
