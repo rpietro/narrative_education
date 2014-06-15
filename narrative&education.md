@@ -32,7 +32,7 @@ trocar ciencia de dados por ciencias empiricas
 -->
 
 ## Goals
-
+  
 The central objective of the Narrative & Education Conference is to bring researchers in the Humanities and Data Science into a [Trading Zone](http://en.wikipedia.org/wiki/Trading_zones). Briefly, rather than stopping at the dialogue level as is traditionally the endpoint of most interdisciplinary efforts, this Trading Zone will instead create a discussion that immediately results in experimental designs to be later tested in empirical studies. 
 
 <!-- cite personalizedlearningconsortium.org -->
@@ -44,7 +44,7 @@ Narrative has traditionally been the most central mechanism to transmit knowledg
 * Science education in Brazil
 
 <!-- Marcos to write about topics below -->
-* Humanities crisis and its role for citizenship (Nusbaum) and innovation
+* Humanities crisis and its role for citizenship (Nussbaum) and innovation
 * Trading Zone and Peter Galison - concepts and tools
 
 
