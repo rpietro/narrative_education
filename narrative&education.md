@@ -3,6 +3,34 @@
 ## Abstract
 <!-- write at the end -->
 
+<!-- change data science por ciencias empiricas -->
+
+<!--
+
+http://www.amazon.com.br/Politicamente-Incorreto-Filosofia-FELIPE-POND%C3%89-ebook/dp/B00AJ6P76M/ref=sr_1_1?ie=UTF8&qid=1402062235&sr=8-1&keywords=Guia+Politicamente+Incorreto+da+Filosofia
+
+http://www.ces.uc.pt/bss/documentos/Para_alem_do_pensamento_abissal_RCCS78.PDF ecologia de saberes
+
+http://www.boaventuradesousasantos.pt/documentos/fsm.pdf
+
+william james - amazon was out of context
+
+blog posts humanities - lente mundo
+
+maestro monza calabar - https://www.youtube.com/watch?v=fcEjM8dLQI4
+
+empiricas boaventura de sousa santos
+
+nilma gomes - intelectuais negros no brasil livro santos capitulo 12
+
+borges e william james - realismo fantastico equivalente a pluralismo, biblioteca de babel
+
+boaventura - acesso maior ciencia
+
+trocar ciencia de dados por ciencias empiricas
+
+-->
+
 ## Goals
 
 The central objective of the Narrative & Education Conference is to bring researchers in the Humanities and Data Science into a [Trading Zone](http://en.wikipedia.org/wiki/Trading_zones). Briefly, rather than stopping at the dialogue level as is traditionally the endpoint of most interdisciplinary efforts, this Trading Zone will instead create a discussion that immediately results in experimental designs to be later tested in empirical studies. 
