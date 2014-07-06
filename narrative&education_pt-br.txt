@@ -3,8 +3,6 @@
 ## Abstract
 <!-- write at the end -->
 
-<!-- narrative hacks http://twinery.org/ http://inform7.com/  -->
-
 ## Goals
 
 The central objective of the Narrative & Education Conference is to bring researchers in the Humanities and Empirical Science into a [Ecologias do Saber](http://www.abenge.org.br/CobengeAnteriores/2012/artigos/103774.pdf). Briefly, rather than stopping at the dialogue level as is traditionally the endpoint of most interdisciplinary efforts, this Ecologia do Saber will instead create a discussion that immediately results in experimental designs to be later tested in empirical studies. This conference will be created in partnership with the Personalized Learning Consortium [http://personalizedlearningconsortium.org/](http://personalizedlearningconsortium.org/), an international group of researchers interested in the use of education technology to promote the personalization of adult education around the globe.
@@ -22,6 +20,8 @@ To accelerate the transition process, it is required that the government aggress
 <!-- Marcos, pra ajudar na tradução: graduate = pós-graduação, undergraduate = graduação -->
 http://www.epsjv.fiocruz.br/upload/ArtCient/19.pdf
 http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTEDUCATION/0,,contentMDK:20457080~pagePK:148956~piPK:216618~theSitePK:282386,00.html#discussion_paper
+
+<!-- vygotsky psychological tools, Donald phylogenetic evolution of human cognitive abilities, stories represent an external way of representing information including the social polishing of that information, stories as a modeling device to operate on reconfigure reason and act upon -->
 
 <!-- Marcos to write about topics below -->
 ### Humanities crisis and its role for citizenship (Nussbaum) and innovation
@@ -50,7 +50,7 @@ Access to the conference and the city can be made by car as well as other means 
 
 UNILAB is surrounded by hotels and restaurants that can be used by conference participants. Among them are included <!-- Marcos, por favor adicione -->
 
-<!-- vygotsky psychological tools, Donald phylogenetic evolution of human cognitive abilities, stories represent an external way of representing information including the social polishing of that information, stories as a modeling device to operate on reconfigure reason and act upon -->
+
 
 ## Event promotion
 
