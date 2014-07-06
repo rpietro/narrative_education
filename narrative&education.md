@@ -6,6 +6,37 @@
 <!-- narrative hacks http://twinery.org/ http://inform7.com/  -->
 
 ## Goals
+<!-- change data science por ciencias empiricas -->
+
+<!--
+
+http://www.amazon.com.br/Politicamente-Incorreto-Filosofia-FELIPE-POND%C3%89-ebook/dp/B00AJ6P76M/ref=sr_1_1?ie=UTF8&qid=1402062235&sr=8-1&keywords=Guia+Politicamente+Incorreto+da+Filosofia
+
+http://www.ces.uc.pt/bss/documentos/Para_alem_do_pensamento_abissal_RCCS78.PDF ecologia de saberes
+
+http://www.boaventuradesousasantos.pt/documentos/fsm.pdf
+
+william james - amazon was out of context
+
+blog posts humanities - lente mundo
+
+maestro monza calabar - https://www.youtube.com/watch?v=fcEjM8dLQI4
+
+empiricas boaventura de sousa santos
+
+nilma gomes - intelectuais negros no brasil livro santos capitulo 12
+
+borges e william james - realismo fantastico equivalente a pluralismo, biblioteca de babel
+
+boaventura - acesso maior ciencia
+
+trocar ciencia de dados por ciencias empiricas
+
+-->
+
+## Goals
+  
+The central objective of the Narrative & Education Conference is to bring researchers in the Humanities and Data Science into a [Trading Zone](http://en.wikipedia.org/wiki/Trading_zones). Briefly, rather than stopping at the dialogue level as is traditionally the endpoint of most interdisciplinary efforts, this Trading Zone will instead create a discussion that immediately results in experimental designs to be later tested in empirical studies. 
 
 The central objective of the Narrative & Education Conference is to bring researchers in the Humanities and Empirical Science into a [Ecologias do Saber](http://www.abenge.org.br/CobengeAnteriores/2012/artigos/103774.pdf). Briefly, rather than stopping at the dialogue level as is traditionally the endpoint of most interdisciplinary efforts, this Ecologia do Saber will instead create a discussion that immediately results in experimental designs to be later tested in empirical studies. This conference will be created in partnership with the Personalized Learning Consortium [http://personalizedlearningconsortium.org/](http://personalizedlearningconsortium.org/), an international group of researchers interested in the use of education technology to promote the personalization of adult education around the globe.
 
@@ -25,6 +56,8 @@ http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTEDUCATION/0,,contentMDK:20457
 
 <!-- Marcos to write about topics below -->
 ### Humanities crisis and its role for citizenship (Nussbaum) and innovation
+* Humanities crisis and its role for citizenship (Nussbaum) and innovation
+* Trading Zone and Peter Galison - concepts and tools
 
 ### Ecologias do Saber and Boaventura Santos - concepts and tools
 
